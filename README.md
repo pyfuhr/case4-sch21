@@ -1,4 +1,8 @@
 # Кейс 4. «Интеграция виртуального ассистента в приложение банка»
+![Static Badge](https://img.shields.io/badge/kivy%20python-red?label=2.0.1dev)
+![Static Badge](https://img.shields.io/badge/gigachat%20gigachain-green?label=2.0.1dev)
+
+
 Решение представляет команда "Смешикодики".
 
 ## Installing
