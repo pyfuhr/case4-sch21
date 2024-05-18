@@ -21,5 +21,7 @@ Running
 ```bash
 git clone https://github.com/pyfuhr/case4-sch21.git
 cd case4-sch21
+touch .env
+echo <TOKEN> > .env
 python3 main.py
 ```
